@@ -1,2 +1,2 @@
-# core-python-
-I am going upload my basic python knowledge 
+# core python-
+this folder contains my first step and journey of python
